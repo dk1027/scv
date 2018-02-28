@@ -1,0 +1,6 @@
+[
+  {
+    "trigger": {"type": "watchdir", "param": "."},
+    "action": {"type": "build", "param": "make"}
+  }
+]
